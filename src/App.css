@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  margin: 20px;
+}
+
+.bill-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.bill-table th,
+.bill-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
